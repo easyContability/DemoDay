@@ -9,7 +9,10 @@
 - 02 de agosto de 2021, Um grupo de jovens com interesse a programação tinham acabado de passar por um processo de 4000 inscrições do [Instituto Proa](https://www.proa.org.br),  aprovando um total de 150 alunos.
 - Aulas foram se passando e acabamos aprendendo muitas linguagens e nos conhecendo cada vez mais, até que chegamos a formação de grupos e assim chegamos na CoffeeCup.
 - CoffeeCup é um grupo composto por 7 alunos que tinham uma missão "Desenvolver uma solução em tecnologia Web, voltada para atender necessidades do mercado local, com foco em escalabilidade, inclusão, sustentabilidade e eficiência" utilizando as linguagens e aprendizados do Proa.
+- Para a realização desse grande projeto tivemos diversas aulas, aulas como Comunicação com a professora Aurora, Aulas de projetos com os professores Wesley e Adriana e por fim e sendo nosso mestre que acolheu e ajudou em todo planejamento ELE professor [Gabriel Augusto](https://github.com/gabaugusto).
 - E assim chegamos a Easy Contability, esse é nosso projeto, esse é o projeto do grupo 10 a CoffeCup.
+- Nós da CoffeeCup só temos a agradecer por toda experiência, todo aprendizado e por todos da equipe 3 estudantes com projetos incríveis como Freelando, Populusnine e a Vizzuart
+Obrigado por tudo 💙.
 
 ## 💼 COFFEECUP
 - Nossa equipe a coffee cup é composta pelo seguinte desenvolvedores, Segue abaixo o github de cada um: 
