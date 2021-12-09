@@ -4,7 +4,7 @@
 
 - Caso você tenha caido aqui de paraquedas, primeiramente seja bem vindo 💙, e caso você não saiba o que é Proa ou muito menos Demo day, deve está possivelmente se perguntando o que é ? pois então irei te explicar.
 
-# Início 
+# Jornada
 
 - 02 de agosto de 2021, Um grupo de jovens com interesse a programação tinham acabado de passar por um processo de 4000 inscrições do [Instituto Proa](https://www.proa.org.br),  aprovando um total de 150 alunos.
 - Aulas foram se passando e acabamos aprendendo muitas linguagens e nos conhecendo cada vez mais, até que chegamos a formação de grupos e assim chegamos na CoffeeCup.
