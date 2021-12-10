@@ -8,7 +8,7 @@
 - Temos os melhores alunos de todos. Confere ai
 
 # 💼 COFFEECUP
-- Na Coffee Cup temos os plenos, os cheirosos do grupo 10
+- Na Coffee Cup temos os plenos, codes incriveis com a mariana, apresentações sensacionais com João e Leo, Pesquisas ótimas do Breno e da Camila, nosso Antônio (Gosto duvidoso :v) um gênio de ideias e o Luan ?
 
 <table>
   <tr>
@@ -75,7 +75,7 @@
 
 
 # 🐙 Populusnine
-- Equipe 09, composta por artistas como a Anelizi e a Giovana, 
+- Equipe 09, grupo recheado por membros culturais, nem tarantino faria um time como esse, grupo de pastelaria a desenhos de nivel Picasso.
 
 <table>
   <tr>
@@ -139,4 +139,55 @@
     </tr>
   </tr>
 </table>
+
+# 👁️ VizzuArt
+- Equipe 09, Equipe substimada pelo seu número de membros que tem um destaque incrível em nossa turma, com belos memes da Giovana (Jovas) e nosso homi do react o RICADÃO.
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/giovanarc0101">
+        <img src="https://avatars.githubusercontent.com/u/88720377?v=4" width="100px;" alt="Foto da jovas no GitHub"/><br>
+        <sub>
+          <b>Giovana Roberta</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ricardolemaciel">
+        <img src="https://avatars.githubusercontent.com/u/52418464?v=4" width="100px;" alt="Foto do Ricardo no GitHub"/><br>
+        <sub>
+          <b>Ricardo Leal</b>
+        </sub>
+      </a><br>
+    </td>
+    <td align="center">
+      <a href="https://github.com/V1N1Silva">
+        <img src="https://avatars.githubusercontent.com/u/88720391?v=4" width="100px;" alt="Foto do Vini no GitHub"/><br>
+        <sub>
+          <b>Vinicius da Silva</b>
+        </sub>
+      </a><br>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nascimentobeatriz5832">
+        <img src="https://avatars.githubusercontent.com/u/88720237?v=4" width="100px;" alt="Foto da Beatriz no GitHub"/><br>
+        <sub>
+          <b>Beatriz Nascimento</b>
+        </sub>
+      </a><br>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Vitor42z">
+        <img src="https://avatars.githubusercontent.com/u/78519292?v=4" width="100px;" alt="Foto do Vitor no Github"/><br>
+        <sub>
+          <b>Vitor Fernandes</b>
+        </sub>
+      </a><br>
+    </td>
+    </tr>
+  </tr>
+</table>
+
+
 
