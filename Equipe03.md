@@ -283,7 +283,7 @@ grupo de se diverti, amor e pão, temos a Anelizi a desenhista PICA, Carlos famo
 ## Agradecimentos
 - Obrigado por todos vocês que fizeram parte dessa equipe incrível que vocês são. Obg CoffeeCup, Obg PopulusNine, Obg VizzuArt e Obg SoulsDev.
 
-- Eu Luan, Agradeço por conhecer e está com vocês por esses 6 meses, ❤️ Se Cuidem ❤️.
+- Eu Luan, Agradeço por conhecer vocês e por esses 6 meses. ❤️ Se Cuidem ❤️.
 
 
 
