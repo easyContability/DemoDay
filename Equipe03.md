@@ -3,11 +3,6 @@
 # ❤️ Sobre
 - Equipe 03, é simplesmente a melhor equipe EXISTENTE nesse universo, e não eu não estou exagerando como posso provar isso ? Tudo bem VEJA ISSO
 
-### ❤️ MEMBROS
-
-- Temos os melhores alunos de todos. Confere ai
-
-
 # ❤️ Professor 
 - Nosso mentor, Um cara sensacional que todos deviam conhecer e aprender, conhecimento puro e pleno em linguagens de programação e tecnologias.
 <table>
