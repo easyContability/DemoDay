@@ -215,7 +215,7 @@ grupo de se diverti, amor e pão, temos a Anelizi a desenhista PICA, Carlos famo
       <a href="https://github.com/claudio-hanada">
         <img src="https://avatars.githubusercontent.com/u/88722163?v=4" width="100px;" alt="Foto do Claudio no GitHub"/><br>
         <sub>
-          <b>Claudio Hanada/b>
+          <b>Claudio Hanada</b>
         </sub>
       </a>
     </td>
@@ -283,7 +283,7 @@ grupo de se diverti, amor e pão, temos a Anelizi a desenhista PICA, Carlos famo
 ## Agradecimentos
 - Obrigado por todos vocês que fizeram parte dessa equipe incrível que vocês são. Obg CoffeeCup, Obg PopulusNine, Obg VizzuArt e Obg SoulsDev.
 
-- L Agradece :)
+- Eu Luan, Agradeço por conhecer e está com vocês por esses 6 meses, ❤️ Se Cuidem ❤️.
 
 
 
