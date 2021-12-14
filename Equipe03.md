@@ -1,14 +1,30 @@
 ![VOCÊS SÃO FODAS](https://user-images.githubusercontent.com/95861587/145480152-5cc100be-7078-4e48-b63e-397d1b2da50e.png)
 
-## ❤️ Sobre
+# ❤️ Sobre
 - Equipe 03, é simplesmente a melhor equipe EXISTENTE nesse universo, e não eu não estou exagerando como posso provar isso ? Tudo bem VEJA ISSO
 
-## ❤️ MEMBROS
+### ❤️ MEMBROS
 
 - Temos os melhores alunos de todos. Confere ai
 
+
+# ❤️ Professor 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/gabaugusto">
+        <img src="https://avatars.githubusercontent.com/u/33496735?v=4" width="100px;" alt="Foto do NOSSO QUERIDO PROFESSOR no GitHub"/><br>
+        <sub>
+          <b>Gabriel Augusto</b>
+        </sub>
+      </a>
+    </td>
+    </tr>
+  </tr>
+</table>
+
 # 💼 COFFEECUP
-- Na Coffee Cup temos os plenos, codes incriveis com a mariana, apresentações sensacionais com João e Leo, Pesquisas ótimas do Breno e da Camila, nosso Antônio (Gosto duvidoso :v) um gênio de ideias e o Luan ?
+- Na Coffee Cup temos os melhores DE TODOS OS TEMPOS EVER, criadores da Easy Contability, temos João Victor esse incrível, amigável e esforçado, Mariana Nossa rainha full stack acima dela somente deus, Luan ? ... , Breno atleta 3mil garoto prodigio de esforço e estudos, Camila nossa gaymer e espiã, Antônio nosso otaku supremo, amigável, lider e fã de one piece e por fim temos o Leonardo, o homem mais vivido desta equipe. 
 
 <table>
   <tr>
@@ -76,6 +92,7 @@
 
 # 🐙 Populusnine
 - Equipe 09, grupo recheado por membros culturais, nem tarantino faria um time como esse, grupo de pastelaria a desenhos de nivel Picasso.
+grupo de se diverti, amor e pão, temos a Anelizi a desenhista PICA, Carlos famoso filtro de flor, Douglas O Pardo contra Xing lings, Gaby piadista do baile, Giovana a glamurosa do front e uma dos pontos focais (MyFav), Math aniquilador de montanhas do mine e por fim, sendo a melhor Marina pasteleira e guerreira da liberdade contra os pardos.
 
 <table>
   <tr>
@@ -141,7 +158,7 @@
 </table>
 
 # 👁️ VizzuArt
-- Equipe 11, Equipe substimada pelo seu número de membros que tem um destaque incrível em nossa turma, com belos memes da Giovana (Jovas)
+- Equipe 11, Equipe substimada pelo seu número de membros que tem um destaque incrível em nossa turma, com belos memes da Giovana (Jovas), Ricardo o ser misterioso do React, Vinicius o monge do grupo, Beatriz fã de filmes de terror e vitor lolzeiro.
 
 <table>
   <tr>
@@ -190,7 +207,7 @@
 </table>
 
 # 👻 SoulsDev
-- Equipe 12, grupo composto por deuses do back-end, gaymers e fâ de one piece, conhecidos pela risada do Claudio King. 
+- Equipe 12, grupo composto por deuses do back-end, gaymers e fã de one piece, conhecidos pela risada do Claudio King. Alyson dominador da arte de Full-stack, Guilherme com seu CABELO ESPLENDOR, Matheus teixeira admirador de fotos com tênis, Gusta o homem do fone bonito, Felipe o amante de RPG, Izabel garota fofissima de filtro de frozen e Flavio um de nossos pontos focais e especialista em instrumentos.  
 
 <table>
   <tr>
@@ -262,6 +279,11 @@
   </tr>
 </tr>
 </table>
+
+## Agradecimentos
+- Obrigado por todos vocês que fizeram parte dessa equipe incrível que vocês são. Obg CoffeeCup, Obg PopulusNine, Obg VizzuArt e Obg SoulsDev.
+
+- L Agradece :)
 
 
 
