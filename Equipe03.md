@@ -9,6 +9,7 @@
 
 
 # ❤️ Professor 
+- Nosso mentor, Um cara sensacional que todos deviam conhecer e aprender, conhecimento puro e pleno em linguagens de programação e tecnologias.
 <table>
   <tr>
     <td align="center">
