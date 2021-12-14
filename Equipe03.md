@@ -24,7 +24,7 @@
   </tr>
 </table>
 
-# 💼 COFFEECUP
+# ☕ COFFEECUP
 - Na Coffee Cup temos os melhores DE TODOS OS TEMPOS EVER, criadores da Easy Contability, temos João Victor esse incrível, amigável e esforçado, Mariana Nossa rainha full stack acima dela somente deus, Luan ? ... , Breno atleta 3mil garoto prodigio de esforço e estudos, Camila nossa gaymer e espiã, Antônio nosso otaku supremo, amigável, lider e fã de one piece e por fim temos o Leonardo, o homem mais vivido desta equipe. 
 
 <table>
