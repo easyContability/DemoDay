@@ -89,7 +89,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/cadunands">
-        <img src="https://avatars.githubusercontent.com/u/88720122?v=4" width="100px;" alt="Foto do Claudio no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/88720122?v=4" width="100px;" alt="Foto do Carlos no GitHub"/><br>
         <sub>
           <b>Carlos Eduardo</b>
         </sub>
@@ -141,7 +141,7 @@
 </table>
 
 # 👁️ VizzuArt
-- Equipe 09, Equipe substimada pelo seu número de membros que tem um destaque incrível em nossa turma, com belos memes da Giovana (Jovas) e nosso homi do react o RICADÃO.
+- Equipe 11, Equipe substimada pelo seu número de membros que tem um destaque incrível em nossa turma, com belos memes da Giovana (Jovas)
 
 <table>
   <tr>
@@ -187,6 +187,80 @@
     </td>
     </tr>
   </tr>
+</table>
+
+# 👻 SoulsDev
+- Equipe 12, grupo composto por deuses do back-end, gaymers e fâ de one piece, conhecidos pela risada do Claudio King. 
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/claudio-hanada">
+        <img src="https://avatars.githubusercontent.com/u/88722163?v=4" width="100px;" alt="Foto do Claudio no GitHub"/><br>
+        <sub>
+          <b>Claudio Hanada/b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Alyson02">
+        <img src="https://avatars.githubusercontent.com/u/80166983?v=4" width="100px;" alt="Foto do Alyson no GitHub"/><br>
+        <sub>
+          <b>Alyson</b>
+        </sub>
+      </a><br>
+    </td>
+    <td align="center">
+      <a href="https://github.com/GuilhermeRodrigues15">
+        <img src="https://avatars.githubusercontent.com/u/64387292?v=4" width="100px;" alt="Foto do Guilherme no GitHub"/><br>
+        <sub>
+          <b>Guilherme Rodrigues</b>
+        </sub>
+      </a><br>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MatheusDev21">
+        <img src="https://avatars.githubusercontent.com/u/56609210?v=4" width="100px;" alt="Foto do Matheus no GitHub"/><br>
+        <sub>
+          <b>Matheus Teixeira</b>
+        </sub>
+      </a><br>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nomegustaa">
+        <img src="https://avatars.githubusercontent.com/u/88720366?v=4" width="100px;" alt="Foto do Gusta no Github"/><br>
+        <sub>
+          <b>Gustavo Carvalho</b>
+        </sub>
+      </a><br>
+    </td>
+    <td align="center">
+      <a href="https://github.com/FelipePereiraFelix">
+        <img src="https://avatars.githubusercontent.com/u/88720299?v=4" width="100px;" alt="Foto do Felipe no Github"/><br>
+        <sub>
+          <b>Felipe Pereira</b>
+        </sub>
+      </a><br>
+    </td>
+    <tr>
+     <td align="center">
+      <a href="https://github.com/izabelsts">
+        <img src="https://avatars.githubusercontent.com/u/88720252?v=4" width="100px;" alt="Foto da Izabel no Github"/><br>
+        <sub>
+          <b>Izabel Santos</b>
+        </sub>
+      </a><br>
+    </td>
+  <td align="center">
+      <a href="https://github.com/flavio-valle">
+        <img src="https://avatars.githubusercontent.com/u/88721496?v=4" width="100px;" alt="Foto do Flavio no GitHub"/><br>
+        <sub>
+          <b>Flavio Valle Da Cunha</b>
+        </sub>
+      </a><br>
+    </td>
+  </tr>
+</tr>
 </table>
 
 
